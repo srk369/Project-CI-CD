@@ -7,4 +7,7 @@ x=1+2
 x=2-1
 
 #Division
+x=2/2
 
+#Multipilcation
+x=2*2
